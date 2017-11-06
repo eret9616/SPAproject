@@ -13,10 +13,9 @@
 
      <div class="container">
 
-
-                <keep-alive>
-                <router-view></router-view>
-                </keep-alive>
+       <keep-alive exclude="live">
+           <router-view></router-view>
+       </keep-alive>
 
                  <!-- <transition name="animate" mode="out-in"></transition > -->
 
