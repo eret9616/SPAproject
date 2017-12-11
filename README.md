@@ -5,4 +5,3 @@
 
 ![image](https://github.com/eret9616/SPAproject/blob/master/show.gif)
 #
-学习vuecli的操作，尝试swiper滑动插件及vuerouter的使用
